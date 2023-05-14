@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo]()
 <h1 align="center">Hi 👋, I'm Ritam Bhattacharya</h1>
 <h3 align="center">A keen and passionate about computer science </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg"> 
