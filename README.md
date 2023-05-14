@@ -1,10 +1,6 @@
-### Hi there 👋
-
 <!--
 **Ramben0909/Ramben0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![logo]()
+![logo](https://github.com/Ramben0909/Ramben0909/blob/main/Screenshot%202023-05-14%20192234.png)
 <h1 align="center">Hi 👋, I'm Ritam Bhattacharya</h1>
 <h3 align="center">A keen and passionate about computer science </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg"> 
