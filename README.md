@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@ritam09ramben" target="blank"><img src="https://img.shields.io/twitter/follow/@ritam09ramben?logo=twitter&style=for-the-badge" alt="@ritam09ramben" /></a> </p>
 
-- 🔭 I’m currently working on **Weather forecasting project using ANN MLP regressor**
+- 🔭 I’m currently working on **AI powered ChatBot with blockchain wallet integration**
 
-- 🌱 I’m currently learning **React, ANN**
+- 🌱 I’m currently learning **GEN AI,NLP**
 
-- 👯 I’m looking to collaborate on **Full stack web development project**
+- 👯 I’m looking to collaborate on **ML Projects**
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **Java,React,JavaScript**
 
 - 📫 How to reach me **ritam09bhattacharya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Eoik4HCDrKenaBrf4Oies4tuinLe2Khb/view?usp=sharing](https://drive.google.com/file/d/1Eoik4HCDrKenaBrf4Oies4tuinLe2Khb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing](https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
