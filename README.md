@@ -1,36 +1,36 @@
-![logo](https://github.com/Ramben0909/Ramben0909/blob/main/Screenshot%202023-05-14%20192234.png)
+![logo](01010101010101.png)
 <h1 align="center">Hi 👋, I'm Ritam Bhattacharya</h1>
-<h3 align="center">keen and passionate about CS and its applications</h3>
+<h3 align="center">Software Engineer | Backend Architecture & Quality Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramben0909&label=Profile%20views&color=0e75b6&style=flat" alt="ramben0909" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ritam09ramben" target="blank"><img src="https://img.shields.io/twitter/follow/@ritam09ramben?logo=twitter&style=for-the-badge" alt="@ritam09ramben" /></a> </p>
 
-- 🔭 I’m currently working on **AI powered ChatBot with blockchain wallet integration**
+- 🔭 I’m currently building **ThrottleBox: An Enterprise API Rate Limiter (Node.js, Express, Redis)**
 
-- 🌱 I’m currently learning **GEN AI,NLP**
+- 🌱 I’m currently mastering **System Design (HLD/LLD), Caching Strategies, and Scalable Architectures**
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m looking to collaborate on **Backend Engineering and Open Source Java/MERN projects**
 
-- 💬 Ask me about **Java,React,JavaScript**
+- 💬 Ask me about **Java OOP, Node.js API Design, MongoDB, and Selenium Automation**
 
-- 📫 How to reach me **ritam09bhattacharya@gmail.com**
+- 📫 How to reach me: **ritam09bhattacharya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing](https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ritam bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
 <a href="https://twitter.com/ritam09ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritam09ramben" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritam bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritam-bhattacharya-463248263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ritam ramben bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ritam ramben bhattacharya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritam09ramben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritam09ramben" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ritam bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ramben" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramben" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ritam09bhahy0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritam09bhahy0w" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/UrE68EAd4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/UrE68EAd4a" height="30" width="40" /></a>
+<a href="https://discord.gg/UrE68EAd4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -161,4 +161,3 @@
 <a href="https://leetcode.com/ramben/">
   <img src="https://leetcard.jacoblin.cool/ramben?ext=heatmap" alt="LeetCode Stats" />
 </a>
-
