@@ -56,24 +56,21 @@
 
 ### 📊 GitHub & LeetCode Stats
 
-<div align="center">
-  <!-- GitHub Top Languages and Overall Stats aligned side-by-side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
 
 <br>
 
-<div align="center">
-  <!-- GitHub Streak -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramben0909&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <!-- LeetCode Stats -->
+<p align="center">
   <a href="https://leetcode.com/ramben/">
     <img src="https://leetcard.jacoblin.cool/ramben?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
   </a>
-</div>
+</p>
