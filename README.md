@@ -1,163 +1,79 @@
-![logo](01010101010101.png)
-<h1 align="center">Hi 👋, I'm Ritam Bhattacharya</h1>
-<h3 align="center">Software Engineer | Backend Architecture & Quality Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn1.vectorstock.com/i/1000x1000/47/05/young-man-programmer-working-on-computer-with-code-vector-18324705.jpg"> 
+<div align="center">
+  <img src="01010101010101.png" alt="Matrix Banner" width="100%" style="border-radius: 10px;"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramben0909&label=Profile%20views&color=0e75b6&style=flat" alt="ramben0909" /> </p>
+  <br><br>
 
-<p align="left"> <a href="https://twitter.com/@ritam09ramben" target="blank"><img src="https://img.shields.io/twitter/follow/@ritam09ramben?logo=twitter&style=for-the-badge" alt="@ritam09ramben" /></a> </p>
+  <h1>Hi 👋, I'm Ritam Bhattacharya</h1>
+  <h3>Software Engineer | Backend Architecture & Quality Engineering</h3>
+
+  <p>
+    <a href="https://komarev.com/ghpvc/?username=ramben0909&label=Profile%20views&color=0e75b6&style=flat">
+      <img src="https://komarev.com/ghpvc/?username=ramben0909&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/ritam-bhattacharya-463248263" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/ritam09ramben" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://leetcode.com/ramben/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing" target="_blank">
+      <img src="https://img.shields.io/badge/Resume-FF0000?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+    </a>
+  </p>
+</div>
+
+<hr>
+
+### 👨‍💻 About Me
 
 - 🔭 I’m currently building **ThrottleBox: An Enterprise API Rate Limiter (Node.js, Express, Redis)**
-
 - 🌱 I’m currently mastering **System Design (HLD/LLD), Caching Strategies, and Scalable Architectures**
-
 - 👯 I’m looking to collaborate on **Backend Engineering and Open Source Java/MERN projects**
-
 - 💬 Ask me about **Java OOP, Node.js API Design, MongoDB, and Selenium Automation**
-
 - 📫 How to reach me: **ritam09bhattacharya@gmail.com**
 
-- 📄 Know about my experiences: [View My Resume](https://drive.google.com/file/d/1KO5ZkMDCOH7G3m1f-H8Zkj2GlF5aILZM/view?usp=sharing)
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ritam bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
-<a href="https://twitter.com/ritam09ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ritam09ramben" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritam-bhattacharya-463248263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ritam ramben bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ritam ramben bhattacharya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ritam09ramben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritam09ramben" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ritam bhattacharya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ritam bhattacharya" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ramben" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ramben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramben" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ritam09bhahy0w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ritam09bhahy0w" height="30" width="40" /></a>
-<a href="https://discord.gg/UrE68EAd4a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
+### 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,cs&theme=dark" alt="Languages" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,redux,django,spring&theme=dark" alt="Frameworks" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,selenium,postman&theme=dark" alt="Databases and Tools" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,jenkins,figma&theme=dark" alt="DevOps and Design" />
+</div>
 
-### 📊 My GitHub Stats:
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ramben0909&show_icons=true&locale=en&layout=compact" alt="Ramben0909" /></p>
+### 📊 GitHub & LeetCode Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramben0909&show_icons=true&locale=en" alt="Ramben0909" /></p>
+<div align="center">
+  <!-- GitHub Top Languages and Overall Stats aligned side-by-side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramben0909&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" height="195" alt="Top Languages" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramben0909&" alt="Ramben0909" /></p>
+<br>
 
-### 📊 My LeetCode Stats:
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramben0909&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<a href="https://leetcode.com/ramben/">
-  <img src="https://leetcard.jacoblin.cool/ramben?ext=heatmap" alt="LeetCode Stats" />
-</a>
+<br>
+
+<div align="center">
+  <!-- LeetCode Stats -->
+  <a href="https://leetcode.com/ramben/">
+    <img src="https://leetcard.jacoblin.cool/ramben?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
