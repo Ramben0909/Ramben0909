@@ -9,7 +9,8 @@
 
   <p>
     <a href="https://visitcount.itsvg.in">
-      <img src="https://komarev.com/ghpvc/?username=Ramben0909&icon=0&color=0" alt="Profile Views" />
+      <img src="https://komarev.com/ghpvc/?username=ramben0909&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    </a>
     </a>
   </p>
 
