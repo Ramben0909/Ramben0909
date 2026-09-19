@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner image with decreased height and object-fit to prevent squishing -->
-  <img src="01010101010101.png" alt="Matrix Banner" width="100%" height="280" style="object-fit: cover; border-radius: 10px;"/>
+  <img src="01010101010101.png" alt="Matrix Banner" width="100%" height="380" style="object-fit: cover; border-radius: 10px;"/>
 
   <br><br>
 
